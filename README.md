@@ -55,9 +55,9 @@ The approach was to start with the base line dummy model and move towrds complex
 Based on the above indicators Logistic Regression with polynomial Features hyperparameter tuned(gs Model)
 perform well over other with high train and test scores while minimizing the logloss in the training dataset to 0.23 and test data it is 0.32. On the other indicators highest F1 score of 0.67, precision of 0.61 and accurcy rate of 0.89 showed with Logistic Regression with polynomial Features hyperparameter tuned(gs Model). Eventhough recall is marginally lower considering other indicators it is recommended to use Logistic Regression with polynomial Features with following parameters.
 
-Imputer strategy : mean
-Degree of Polynomial :3
-C = 1
-Solver = liblinear
-Tolerance : 0.0001
+Imputer strategy : mean, 
+Degree of Polynomial :3, 
+C = 1, 
+Solver = liblinear, 
+Tolerance : 0.0001, 
 No of iterations = 100
