@@ -15,7 +15,7 @@ The main source of data is database provided by the syriatel on its existing and
 The data set is contained 3333 records of past and existing customers. The data set with 21 columns of information of each customer such as current status, duration with the company, phone no, area codes, messages,call usage and call charges related information. It contained 16 numeric data colums, 4 categorical data columns and 1 boolean data column.
 
 ### Method
-Started the analysis understanding the data and premilinary EDA for better understanding the behaviour of the data set. As this is a classification problem to predict to churn or not, the model used is ####Logistic regression with binary response.
+Started the analysis understanding the data and premilinary EDA for better understanding the behaviour of the data set. As this is a classification problem to predict to churn or not, the model used is Logistic regression with binary response.
 
 first categorized the precdictive variable and explanatory variables. 
 Predictive variable - Churn column
